@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+gatet
+reg
+Faker
+beautifulsoup4
